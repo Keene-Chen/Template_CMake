@@ -1,0 +1,7 @@
+**/_deps
+**/logs
+**/output
+**/bin
+**/cmake-build
+**/cmake-ninja
+**/cmake-vscode
