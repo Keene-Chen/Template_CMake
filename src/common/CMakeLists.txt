@@ -1,7 +1,7 @@
 # file    : CMakeLists.txt
 # author  : KeeneChen <keenechen@qq.com>
-# date    : 2025.06.17-17:39:29
+# date    : 2025.06.29-23:08:03
 # details : CMakeLists
 
-add_subdirectory(common)
-add_subdirectory(demo_grpc)
+# add_subdirectory(net)
+add_subdirectory(utils)
