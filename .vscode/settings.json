@@ -1,0 +1,6 @@
+{
+    "explorer.fileNesting.patterns": {
+        ".gitignore": ".clang-format,.clang-tidy,LICENSE,clean.sh,build.sh"
+    },
+    "explorer.fileNesting.expand": false,
+}
