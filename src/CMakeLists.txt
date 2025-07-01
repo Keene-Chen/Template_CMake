@@ -4,4 +4,4 @@
 # details : CMakeLists
 
 add_subdirectory(common)
-add_subdirectory(demo_grpc)
+# add_subdirectory(demo_grpc)
